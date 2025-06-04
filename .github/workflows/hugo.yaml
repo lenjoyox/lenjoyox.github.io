@@ -77,4 +77,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v3
         with:
-          cname: nikeorever.github.io
+          cname: lenjoyox.github.io
