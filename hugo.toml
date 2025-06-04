@@ -3,7 +3,7 @@ title = "Lenox Enjoy"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 16
+pagination.pagerSize = 16
 enableEmoji = true
 
 [markup.highlight]
