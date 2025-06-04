@@ -10,7 +10,6 @@ author = "Lenox"
 val lenox = developer {
     about {
         name = "Lenox"
-        wife = "Enjoy"
         idol = "Jake Wharton(https://github.com/JakeWharton)"
         favorite = listOf("Rust", "C", "Kotlin", "Flutter", "Android", "Linux", "WASM")
     }
