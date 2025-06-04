@@ -1,4 +1,4 @@
-# nikeorever.github.io
+# lenjoyox.github.io
 
 个人网站
 
@@ -20,4 +20,4 @@ hugo server
 
 ## 发布
 
-每次在 _trunk_ 分支的提交都会自动触发Github的构建和网站部署
+每次在 _main_ 分支的提交都会自动触发Github的构建和网站部署
