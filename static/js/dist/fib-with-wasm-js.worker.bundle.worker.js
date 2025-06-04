@@ -1,0 +1,1 @@
+(()=>{function o(e){return e<=1?e:o(e-1)+o(e-2)}self.onmessage=function(e){let n=e.data,a=performance.now(),t=o(n),c=performance.now()-a;console.log(`Calculating ${n}th Fibonacci with JavaScript took ${c} milliseconds,${n}th fibonacci is ${t}.`),self.postMessage({r:t,take:c})}})();
